@@ -6,7 +6,7 @@ menu:
 
 # SubNav
 subnav:
-  github: "http://www.github.io/lizhe2004#"
+  github: "http://www.github.com/lizhe2004#"
   weibo: "http://weibo.com/lizhe2004#"
   rss: "/hexo/atom.xml"
   zhihu: "#"
@@ -29,7 +29,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar: "http://tp4.sinaimg.cn/1168427155/180/5619146541/1"
+avatar: "http://tp4.sinaimg.cn/1168427155/180/5725718049/1"
 #是否开启分享
 share: true
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
