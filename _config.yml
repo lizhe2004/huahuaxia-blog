@@ -69,4 +69,4 @@ theme: yilia
 deploy:
   type: git
   repository: git@github.com:lizhe2004/lizhe2004.github.io.git
-  branch: master/hexo
+  branch: master

@@ -1,14 +1,14 @@
 # Header
 menu:
   主页: /
-  所有文章: /archives
+  所有文章: /hexo/archives
   # 随笔: /tags/随笔
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
+  github: "http://www.github.io/lizhe2004#"
+  weibo: "http://weibo.com/lizhe2004#"
+  rss: "/hexo/atom.xml"
   zhihu: "#"
   #douban: "#"
   #mail: "#"
@@ -17,7 +17,7 @@ subnav:
   #twitter: "#"
   #linkedin: "#"
 
-rss: /atom.xml
+rss: /hexo/atom.xml
 
 # Content
 excerpt_link: more
@@ -29,12 +29,12 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar: ""
+avatar: "http://tp4.sinaimg.cn/1168427155/180/5619146541/1"
 #是否开启分享
 share: true
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
 #若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
-duoshuo: true
+duoshuo: lizhe-git
 #是否开启云标签
 tagcloud: true
 
@@ -54,4 +54,4 @@ friends:
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 我是谁，我从哪里来，我到哪里去？我就是我，是颜色不一样的吃货…
+aboutme: 软件工程师 目前就职于联想负责X86服务器的软件产品的开发的工作，曾任职于ZTE、IBM，翻译有《RESTful Web APIs中文版》一书。喜欢研究新技术、关注科技发展动向，对架构设计、敏捷开发、自动化测试、IT项目管理都有很高的兴趣。。技术涉及领域：python、php、java、js（dojo）、css、html…
